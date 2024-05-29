@@ -1,0 +1,8 @@
+openai
+soundfile 
+sounddevice
+torch 
+torchvision 
+torchaudio
+style-bert-vits2
+faster-whisper
